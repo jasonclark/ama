@@ -4,10 +4,6 @@ This is a quick little ask-me-anything type of repository. It is based on
 [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
-If you have any technical problems with Git or GitHub, you're better off 
-[asking GitHub Support directly](https://github.com/contact), since you'll
-end up getting a much faster response back that way.
-
 ---
 
 ### Ask a question
@@ -38,6 +34,8 @@ If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@jaclark](https://twitter.com/jaclark) on
 Twitter.
 
+---
+
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
@@ -45,6 +43,8 @@ Twitter.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite.
+
+---
 
 ### Links
 
