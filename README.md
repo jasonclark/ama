@@ -4,6 +4,8 @@ This is a quick little ask-me-anything type of repository. It is based on
 [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
+I am a librarian, professor, hacker/developer, author, #SemanticWeb + metadata geek. My online home is at [jasonclark.info](https://www.lib.montana.edu/~jason/).
+
 ---
 
 ### Ask a question
